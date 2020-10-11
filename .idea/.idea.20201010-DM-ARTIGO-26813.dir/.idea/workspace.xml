@@ -23,8 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf9667ec-4b79-4b84-a116-fb869c3df191" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ConversionTypeSafe.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConversaoExplicita.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.20201010-DM-ARTIGO-26813.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.20201010-DM-ARTIGO-26813.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.20201010-DM-ARTIGO-26813.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.20201010-DM-ARTIGO-26813.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversionTypeSafe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConversaoImplicita.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,11 @@
         <option value="$PROJECT_DIR$/ConversaoImplicita/ConverSbyte.cs" />
         <option value="$PROJECT_DIR$/ConversaoImplicita/ConverShort.cs" />
         <option value="$PROJECT_DIR$/ConversionTypeSafe.cs" />
+        <option value="$PROJECT_DIR$/Humano.cs" />
+        <option value="$PROJECT_DIR$/ConversãoImplícita.cs" />
+        <option value="$PROJECT_DIR$/ConversãoImplicita.cs" />
+        <option value="$PROJECT_DIR$/ConversãoExplicita.cs" />
+        <option value="$PROJECT_DIR$/ConversaoImplicita.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
@@ -99,6 +107,7 @@
       <updated>1602372289874</updated>
       <workItem from="1602372301846" duration="28000" />
       <workItem from="1602372801064" duration="5579000" />
+      <workItem from="1602381881516" duration="4161000" />
     </task>
     <servers />
   </component>
@@ -117,6 +126,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

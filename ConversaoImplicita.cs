@@ -2,9 +2,9 @@ using System;
 
 namespace _20201010_DM_ARTIGO_26813
 {
-    public class ConversionTypeSafe
+    public class ConversaoImplicita
     {
-        public static void Conversion()
+        public static void ConversaoImp()
         {
             sbyte a = 10;
             short b = a;

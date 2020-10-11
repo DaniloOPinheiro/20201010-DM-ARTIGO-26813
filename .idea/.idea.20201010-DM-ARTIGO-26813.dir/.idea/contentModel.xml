@@ -8,6 +8,7 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p=".gitignore" t="Include" />
       <e p="20201010-DM-ARTIGO-26813.csproj" t="IncludeRecursive" />
+      <e p="ConversaoExplicita.cs" t="Include" />
       <e p="ConversaoImplicita" t="Include">
         <e p="ConverDouble.cs" t="Include" />
         <e p="ConverFloat.cs" t="Include" />
@@ -17,7 +18,7 @@
         <e p="ConverShort.cs" t="Include" />
         <e p="Numero.cs" t="Include" />
       </e>
-      <e p="ConversionTypeSafe.cs" t="Include" />
+      <e p="ConversaoImplicita.cs" t="Include" />
       <e p="Program.cs" t="Include" />
       <e p="README.md" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
