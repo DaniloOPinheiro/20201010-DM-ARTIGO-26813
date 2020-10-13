@@ -1,6 +1,6 @@
 # BASEDO NO ARTIGO-26813 DA PLATAFORMA [DEVMEDIA](https://www.devmedia.com.br/)
 
-## PONTOS DA APLICAÇÃO CRIADAS
+## PONTOS DA APLICAÇÃO
 
 * Conversão Implícita
 * Conversão implícita de char para int
